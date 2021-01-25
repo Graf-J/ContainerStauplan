@@ -1,0 +1,13 @@
+C:\Users\Johannes\source\repos\Berufsschule\ContainerStauplan\ContainerStauplan\bin\Debug\netcoreapp3.1\ContainerStauplan.exe
+C:\Users\Johannes\source\repos\Berufsschule\ContainerStauplan\ContainerStauplan\bin\Debug\netcoreapp3.1\ContainerStauplan.deps.json
+C:\Users\Johannes\source\repos\Berufsschule\ContainerStauplan\ContainerStauplan\bin\Debug\netcoreapp3.1\ContainerStauplan.runtimeconfig.json
+C:\Users\Johannes\source\repos\Berufsschule\ContainerStauplan\ContainerStauplan\bin\Debug\netcoreapp3.1\ContainerStauplan.runtimeconfig.dev.json
+C:\Users\Johannes\source\repos\Berufsschule\ContainerStauplan\ContainerStauplan\bin\Debug\netcoreapp3.1\ContainerStauplan.dll
+C:\Users\Johannes\source\repos\Berufsschule\ContainerStauplan\ContainerStauplan\bin\Debug\netcoreapp3.1\ContainerStauplan.pdb
+C:\Users\Johannes\source\repos\Berufsschule\ContainerStauplan\ContainerStauplan\obj\Debug\netcoreapp3.1\ContainerStauplan.csprojAssemblyReference.cache
+C:\Users\Johannes\source\repos\Berufsschule\ContainerStauplan\ContainerStauplan\obj\Debug\netcoreapp3.1\ContainerStauplan.AssemblyInfoInputs.cache
+C:\Users\Johannes\source\repos\Berufsschule\ContainerStauplan\ContainerStauplan\obj\Debug\netcoreapp3.1\ContainerStauplan.AssemblyInfo.cs
+C:\Users\Johannes\source\repos\Berufsschule\ContainerStauplan\ContainerStauplan\obj\Debug\netcoreapp3.1\ContainerStauplan.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\source\repos\Berufsschule\ContainerStauplan\ContainerStauplan\obj\Debug\netcoreapp3.1\ContainerStauplan.dll
+C:\Users\Johannes\source\repos\Berufsschule\ContainerStauplan\ContainerStauplan\obj\Debug\netcoreapp3.1\ContainerStauplan.pdb
+C:\Users\Johannes\source\repos\Berufsschule\ContainerStauplan\ContainerStauplan\obj\Debug\netcoreapp3.1\ContainerStauplan.genruntimeconfig.cache

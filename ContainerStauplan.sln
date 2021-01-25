@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerStauplan", "ContainerStauplan\ContainerStauplan.csproj", "{9DAA8361-37FC-4E14-80BB-B0EBD35FEE1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DAA8361-37FC-4E14-80BB-B0EBD35FEE1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAA8361-37FC-4E14-80BB-B0EBD35FEE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAA8361-37FC-4E14-80BB-B0EBD35FEE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAA8361-37FC-4E14-80BB-B0EBD35FEE1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4614CCF-78AB-47BE-8547-2325CAAF2B95}
+	EndGlobalSection
+EndGlobal
